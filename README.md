@@ -1,2 +1,2 @@
 # Jarvis
-You can also contribute in this repository
+You can also contribute to this repository
